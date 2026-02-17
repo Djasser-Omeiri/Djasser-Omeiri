@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student | Backend .NET Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.vercel.app?font=Righteous&size=26&color=2EA043&center=true&vCenter=true&width=560&height=70&pause=1500&duration=1500&lines=Backend+Development+.NET;APIs+|+Databases+|+Clean+Architecture;Structured+Learning+Before+Projects" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.vercel.app?font=Righteous&size=26&color=2EA043&center=true&vCenter=true&width=560&height=70&pause=1500&duration=1500&lines=Backend+Development+.NET;APIs+|+Databases+|+Clean+Code;Structured+Learning+Before+Projects" alt="Typing SVG"/>
 </p>
 
 ---
